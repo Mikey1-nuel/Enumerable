@@ -60,6 +60,9 @@ To run the project, execute the following command:<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 👥 Author <a name="authors"></a>
+
 👤 **Mikey1-nuel**
 
 - GitHub: [Githubhandle](https://github.com/Mikey1-nuel)
